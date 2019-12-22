@@ -5,6 +5,6 @@
 Made by Group #32, also known as: Masoumeh 
 Shariat, Sabriye Ela Esme, Luca Avitabile, Kabandana Dany Mukesha
 
-This repository contais:
+This repository contains:
 * `main.ipynb`: a Jupyter notebook that has all the back end and front end functionalities we've done
 
