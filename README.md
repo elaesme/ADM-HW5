@@ -1,2 +1,10 @@
-# ADM-HW5 Group 32
+# ADM-HW5 
+# *Explore California and Nevada with graphs*
+**Goal of the homework**: write different functionalities from scracth for the back end part and visualize the functionalities on the front end part!
+
+Made by Group #32, also known as: *Masoumeh 
+Shariat, Sabriye Ela Esme, Luca Avitabile *
+
+This repository contais:
+* `main.ipynb`: a Jupyter notebook that has all the back end and front end functionalities we've done
 
